@@ -1,0 +1,1 @@
+# django_add_edit_delete_ajax
