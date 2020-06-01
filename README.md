@@ -22,7 +22,7 @@ Django 3 requires Python 3, if you need help setting up Python 3 on your machine
 
  7. python3 manage.py runserver
 
- 8. Login to http://127.0.0.1:8000
+ 8. Now you can open http://127.0.0.1:8000
 
  9. python manage.py createsuperuser (enter username, email, password) than go to admin http://localhost:8000/admin
 
