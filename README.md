@@ -1,8 +1,10 @@
-About Pay_status project
+<b>About Pay_status project</b>
 
 It's a test project were you use Django, Postgres for add,edit,delete row in table without Django forms! Only ajax request to DB.
 
-Step for Set Up
+![Screenshot](Screenshot.png)
+
+<b>Step for Set Up</b>
 
 Django 3 requires Python 3, if you need help setting up Python 3 on your machine you can consult DigitalOcean great documentation on How To Install and Set Up a Local Programming Environment for Python 3
 
@@ -24,4 +26,4 @@ Django 3 requires Python 3, if you need help setting up Python 3 on your machine
 
  9. python manage.py createsuperuser (enter username, email, password) than go to admin http://localhost:8000/admin
 
-Now Django Pay_status Project Ready
+<b>Now Django Pay_status project ready</b>
